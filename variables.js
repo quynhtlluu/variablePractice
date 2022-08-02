@@ -9,3 +9,7 @@ var membershipTokens = 500
 var membershipPaid = true
 var membershipPremium = false
 var californiaResident = false
+
+customerName = "John Brown"
+occupationTitle = "Tech Support Specialist"
+hairColor = "black"
