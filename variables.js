@@ -13,3 +13,7 @@ var californiaResident = false
 customerName = "John Brown"
 occupationTitle = "Tech Support Specialist"
 hairColor = "black"
+
+console.log(customerName)
+console.log(membershipTokens)
+console.log(membershipPaid)
